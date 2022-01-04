@@ -1,0 +1,13 @@
+body{
+    font-family: 'Licorice', cursive;
+}
+.StreetStar{
+    color: blue;
+}
+.Honda{
+    width: 40%;
+    float: left;
+    margin-left: 3px;
+    padding- left: 2px;
+}
+
